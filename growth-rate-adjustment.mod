@@ -5,4 +5,4 @@ tags={
 	"Balance"
 }
 remote_file_id=""
-supported_version="3.0.x"
+supported_version="3.0.*"
