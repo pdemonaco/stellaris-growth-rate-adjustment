@@ -1,0 +1,4 @@
+	NPop = {
+		REQUIRED_POP_GROWTH_SCALE			= 0.05	# Required pop growth increased by this much for every pop in the empire
+        REQUIRED_POP_ASSEMBLY_SCALE			= 0.05	# Required pop assembly increased by this much for every pop in the empire
+	}
